@@ -1,0 +1,6 @@
+{
+  "name": "Ters Psikoloji: 1 + 1 = ?",
+  "description": "Her seçimin yanlış çıktığı, sivri karalamalar ve kırmızı-yeşil kaosla dolu absürt ters psikoloji oyunu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
